@@ -1,0 +1,23 @@
+
+{
+    "ours":[
+        {
+            "code":0,
+            "lists":[
+                "item"
+            ]
+        }
+    ],
+    "file":{
+        "name":"cody",
+        "age":23
+    },
+    "fire":{
+        "a":{
+            "msg":["some sad"]
+        },
+        "b":{
+            "id":0
+        }
+    }
+}
